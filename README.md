@@ -17,7 +17,7 @@
 ## 📌 Projetos em Destaque
 - [**Projeto LogTech (MicroSaaS)**](https://github.com/Hugop2san/logtech) – Previsão de entregas com integração Google Maps
 - [**E-commerce Fullstack**](https://github.com/Hugop2san/Hugop2san-Projeto_Fullstack_ecommerc)
-- [**Desafio Técnico Django**](https://github.com/Hugop2san/Desafio-tecnico-django) – Desafio realizado para uma empresa com foco em autenticação e gestão de dados
+- [**Desafio Técnico Django**](https://github.com/Hugop2san/Desafio-tecnico-django) – Desafio realizado para uma empresa com foco na transição de dados com o DB
 - [**Exercícios de Estrutura de Dados (C#)**](https://github.com/Hugop2san/Estrutura-de-dados-Treinos)
 
 ---
