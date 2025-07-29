@@ -1,14 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou Hugo Pereira dos Santos
 
-**Hugop2san/Hugop2san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Full Stack Júnior (Django, C# ASP.NET, JavaScript)**  
+🎓 Estudante de **Sistemas de Informação – 2º semestre**  
+🔐 Interessado em **Segurança da Informação** e **Arquitetura de Software**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Habilidades
+- **Backend:** Django, ASP.NET (C#), Node.js
+- **Frontend:** HTML, CSS, Bootstrap
+- **Banco de Dados:** SQLite, PostgreSQL
+- **Outros:** Git, Docker (básico), APIs REST
+
+---
+
+## 📌 Projetos em Destaque
+- [**Projeto LogTech (MicroSaaS)**](https://github.com/Hugop2san/logtech) – Previsão de entregas com integração Google Maps
+- [**E-commerce Fullstack**](https://github.com/Hugop2san/Hugop2san-Projeto_Fullstack_ecommerc)
+- [**Exercícios de Estrutura de Dados (C#)**](https://github.com/Hugop2san/Estrutura-de-dados-Treinos)
+
+---
+
+## 📫 Contato
+- Email: hugo@email.com
+- LinkedIn: [linkedin.com/in/hugo](https://linkedin.com/in/hugo)
+- GitHub: [github.com/Hugop2san](https://github.com/Hugop2san)
+
+---
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+💡 *“A tecnologia move o mundo, e eu quero mover tecnologia.”*
