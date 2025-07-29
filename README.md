@@ -1,40 +1,50 @@
 # 👋 Olá, eu sou Hugo Pereira dos Santos
 
 💻 **Desenvolvedor Full Stack Júnior (Django, C# ASP.NET, JavaScript)**  
-🎓 Estudante de **Sistemas de Informação – 2º semestre**  
-🔐 Interessado em **Segurança da Informação** e **Arquitetura de Software**  
+🎓 Estudante de **Sistemas de Informação – 3º semestre na PUC Minas**  
+🎯 Foco em **Engenharia de Software, Arquitetura e DDD (modelagem de domínio orientada ao negócio)**  
 
 ---
 
 ## 🛠 Habilidades
-- **Backend:** Django, ASP.NET (C#), Node.js
-- **Frontend:** HTML, CSS, Bootstrap
-- **Banco de Dados:** SQLite, PostgreSQL
-- **Outros:** Git, Docker (básico), APIs REST
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### Ferramentas e Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📌 Projetos em Destaque
 - [**Projeto LogTech (MicroSaaS)**](https://github.com/Hugop2san/logtech) – Previsão de entregas com integração Google Maps
 - [**E-commerce Fullstack**](https://github.com/Hugop2san/Hugop2san-Projeto_Fullstack_ecommerc)
-- [**Desafio Técnico Django**](https://github.com/Hugop2san/Desafio-tecnico-django) – Desafio realizado para uma empresa com foco na transição de dados com o DB
+- [**Desafio Técnico Django**](https://github.com/Hugop2san/Desafio-tecnico-django) – Desafio desenvolvido para avaliação técnica de uma empresa, com foco em Django e boas práticas
 - [**Exercícios de Estrutura de Dados (C#)**](https://github.com/Hugop2san/Estrutura-de-dados-Treinos)
 
 ---
 
 ## 📫 Contato
-- Email: hugo@email.com
-- LinkedIn: [linkedin.com/in/hugo](https://linkedin.com/in/hugo)
+- Email: hugopereira2santos61@gmail.com
+- LinkedIn: [[linkedin.com/in/hugo](https://linkedin.com/in/hugo)](https://www.linkedin.com/in/hugosantos27/)](https://www.linkedin.com/in/hugosantos27/)
 - GitHub: [github.com/Hugop2san](https://github.com/Hugop2san)
 
 ---
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 
 💡 *“A tecnologia move o mundo, e eu quero mover tecnologia.”*
