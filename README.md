@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Hugo Pereira dos Santos
+# Olá, eu sou Hugo Pereira dos Santos
 
-💻 **Desenvolvedor Full Stack Júnior (Django, C# ASP.NET, JavaScript)**  
+💻 **Desenvolvedor Full Stack Júnior (Django, C# .NET Core)**  
 🎓 Estudante de **Sistemas de Informação – 3º semestre na PUC Minas**  
 🎯 Foco em **Engenharia de Software, Arquitetura e DDD (modelagem de domínio orientada ao negócio)**  
 
