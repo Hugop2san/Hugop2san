@@ -1,6 +1,6 @@
 # Olá, eu sou Hugo Pereira dos Santos
 
-**Desenvolvedor Full Stack Júnior (Django, C# .NET Core)**  
+**Desenvolvedor Full Stack Júnior (Django, Node.js, C# .NET Core, Brazor, React)**  
 Estudante de **Sistemas de Informação – 4º semestre na PUC Minas**  
 Foco em **Engenharia de Software, Arquitetura e DDD (modelagem de domínio orientada ao negócio)**  
 
@@ -33,7 +33,6 @@ Foco em **Engenharia de Software, Arquitetura e DDD (modelagem de domínio orien
 ---
 
 ## 📌 Projetos em Destaque
-- [**Projeto LogTech (MicroSaaS)**](https://github.com/Hugop2san/logtech) – Previsão de entregas com integração Google Maps
 - [**E-commerce Fullstack**](https://github.com/Hugop2san/Hugop2san-Projeto_Fullstack_ecommerc)
 - [**Desafio Técnico Django**](https://github.com/Hugop2san/Desafio-tecnico-django) – Desafio desenvolvido para avaliação técnica de uma empresa, com foco em Django e boas práticas
 - [**Exercícios de Estrutura de Dados (C#)**](https://github.com/Hugop2san/Estrutura-de-dados-Treinos)
@@ -42,7 +41,7 @@ Foco em **Engenharia de Software, Arquitetura e DDD (modelagem de domínio orien
 
 ## 📫 Contato
 - Email: hugopereira2santos61@gmail.com
-- LinkedIn: [[linkedin.com/in/hugo](https://linkedin.com/in/hugo)](https://www.linkedin.com/in/hugosantos27/)](https://www.linkedin.com/in/hugosantos27/)
+- LinkedIn: [Hugo Santos](https://www.linkedin.com/in/hugosantos27/)]
 - GitHub: [github.com/Hugop2san](https://github.com/Hugop2san)
 
 ---
