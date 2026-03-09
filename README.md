@@ -1,6 +1,6 @@
 # Olá, eu sou Hugo Pereira dos Santos
 
-**Desenvolvedor Full Stack Júnior (Django, Node.js, C# .NET Core, Brazor, React)**  
+**Desenvolvedor Full Stack Júnior (Django, Node.js, C# .NET Core, Blazor, React)**  
 ### **Sistemas de Informação – PUC Minas**  
 ---
 Sou desenvolvedor backend com foco em arquitetura, modelagem de domínio e construção de sistemas que respeitam as regras reais do negócio.
