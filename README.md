@@ -2,7 +2,24 @@
 
 **Desenvolvedor Full Stack Júnior (Django, Node.js, C# .NET Core, Brazor, React)**  
 Estudante de **Sistemas de Informação – 4º semestre na PUC Minas**  
-Foco em **Engenharia de Software, Arquitetura e DDD (modelagem de domínio orientada ao negócio)**  
+---
+Sou desenvolvedor backend com foco em arquitetura, modelagem de domínio e construção de sistemas que respeitam as regras reais do negócio.
+
+Acredito que decisões empresariais não são neutras tecnicamente. Toda regra de negócio carrega uma visão de mundo, e toda escolha de stack ou arquitetura é, no fundo, uma escolha sobre como aquela visão será sustentada no tempo. Tecnologia mal pensada vira ruído. Tecnologia bem pensada vira estrutura.
+
+Stack principal é C#/.NET e sigo aplicando DDD, separação de camadas e Event-Driven Architecture, mesmo em cenários monolíticos, buscando clareza e responsabilidade bem definidas desde o início. Também tenho experiência com Python (Django/Flask), PostgreSQL e integrações entre sistemas.
+
+Tenho interesse especial em entender o porquê das decisões técnicas:
+
+• Quando um broker realmente é necessário e quando é apenas empolgação arquitetural.
+• Quando a complexidade agrega valor e quando apenas mascara falta de clareza.
+• Como alinhar domínio, tecnologia e contexto de negócio sem cair no overengineering.
+
+Além do desenvolvimento backend, trabalho com automação de processos e integrações utilizando n8n, conectando APIs e reduzindo fricções operacionais juntamente com agentes de AI. Automatizo o repetitivo para que o humano possa pensar melhor.
+
+Sou curioso, crítico e colaborativo. Gosto de boas discussões técnicas, de questionar com respeito e de lembrar que software é feito por pessoas e para pessoas. Arquitetura, para mim, não é sobre parecer sofisticado. É sobre sustentar decisões no longo prazo.
+
+Sigo aprofundando meus estudos em arquitetura de software e sistemas distribuídos, buscando consistência antes de modismos.
 
 ---
 
