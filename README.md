@@ -12,14 +12,16 @@ Stack principal é C#/.NET e sigo aplicando DDD, separação de camadas e Event-
 Tenho interesse especial em entender o porquê das decisões técnicas:
 
 • Quando um broker realmente é necessário e quando é apenas empolgação arquitetural.
+
 • Quando a complexidade agrega valor e quando apenas mascara falta de clareza.
+
 • Como alinhar domínio, tecnologia e contexto de negócio sem cair no overengineering.
 
 Além do desenvolvimento backend, trabalho com automação de processos e integrações utilizando n8n, conectando APIs e reduzindo fricções operacionais juntamente com agentes de AI. Automatizo o repetitivo para que o humano possa pensar melhor.
 
 Sou curioso, crítico e colaborativo. Gosto de boas discussões técnicas, de questionar com respeito e de lembrar que software é feito por pessoas e para pessoas. Arquitetura, para mim, não é sobre parecer sofisticado. É sobre sustentar decisões no longo prazo.
 
-Sigo aprofundando meus estudos em arquitetura de software e sistemas distribuídos, buscando consistência antes de modismos.
+Sigo aprofundando meus estudos em arquitetura de software e sistemas distribuídos, buscando consistência sempre.
 
 ---
 
