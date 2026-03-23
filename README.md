@@ -45,7 +45,7 @@ Well-designed systems create structure. Poor decisions create friction.
 
 ## 📫 Contact
 
-- Email: hugopereira2santos61@gmail.com  
+- Email: hugopereira2santos60@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/hugosantos27/  
 - GitHub: https://github.com/Hugop2san  
 
