@@ -17,6 +17,16 @@ Well-designed systems create structure. Poor decisions create friction.
 
 ---
 
+## 📌 Featured Projects
+
+## Mini PDV • EDA + DDD + Blazor
+- https://pdv-event-driven-training.onrender.com/
+
+## Emails classifier by Hugging Face Inference API
+- https://classificacaoemail-huggingfaceai.onrender.com/ 
+
+---
+
 ##  Engineering Mindset
 
 I apply:
@@ -45,16 +55,6 @@ I focus on understanding:
 - n8n (process automation & API integrations)  
 - OpenClaw / Agent-based architectures  
 - AI-assisted workflows  
-
----
-
-## 📌 Featured Projects
-
-## Mini PDV • EDA + DDD + Blazor
-- https://pdv-event-driven-training.onrender.com/
-
-## Emails classifier by Hugging Face Inference API
-- https://classificacaoemail-huggingfaceai.onrender.com/ 
 
 ---
 
