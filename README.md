@@ -1,4 +1,4 @@
-# 👋 Hugo Pereira dos Santos
+# Hugo Pereira dos Santos
 
 **Backend Software Developer | C# / .NET | Architecture & Domain Modeling**  
 🎓 Information Systems – PUC Minas  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a backend-focused developer working with **C# and .NET**, building APIs, backend services, and business-oriented systems.
 
@@ -17,7 +17,7 @@ Well-designed systems create structure. Poor decisions create friction.
 
 ---
 
-## 🧠 Engineering Mindset
+##  Engineering Mindset
 
 I apply:
 
@@ -33,13 +33,12 @@ I focus on understanding:
 
 ---
 
-## ⚙️ What I Work With
+##  What I Work With
 
 ### Backend & Architecture
 - C#, .NET Core, Blazor  
-- Node.js  
+- Node.js / Typescript 
 - PHP (Laravel)  
-- Python (Django / Flask)  
 - PostgreSQL / MySQL  
 
 ### Automation & Integration
@@ -51,9 +50,11 @@ I focus on understanding:
 
 ## 📌 Featured Projects
 
-- [E-commerce Fullstack](https://github.com/Hugop2san/Hugop2san-Projeto_Fullstack_ecommerc)  
-- [Django Technical Challenge](https://github.com/Hugop2san/Desafio-tecnico-django)  
-- [Data Structures Exercises (C#)](https://github.com/Hugop2san/Estrutura-de-dados-Treinos)  
+## Mini PDV • EDA + DDD + Blazor
+- https://pdv-event-driven-training.onrender.com/
+
+## Emails classifier by Hugging Face Inference API
+- https://classificacaoemail-huggingfaceai.onrender.com/ 
 
 ---
 
