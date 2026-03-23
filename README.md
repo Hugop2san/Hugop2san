@@ -1,6 +1,6 @@
 # Hugo Pereira dos Santos
 
-**Backend Software Developer | C# / .NET | Architecture & Domain Modeling**  
+**Backend Software Developer | C# / .NET | PHP / Laravel | Node.js / TypeScript | Architecture & Domain Modeling**
 🎓 Information Systems – PUC Minas    
 🇵🇹 EU Citizen  
 🇧🇷 Brazilian
@@ -9,7 +9,7 @@
 
 ##  About Me
 
-I’m a backend-focused developer working with **C# and .NET**, building APIs, backend services, and business-oriented systems.
+I’m a backend-focused developing building APIs, backend services, and business-oriented systems.
 
 My main interest lies in **software architecture and domain modeling**, designing systems that respect real-world business rules and remain sustainable over time.
 
