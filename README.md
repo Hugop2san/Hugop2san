@@ -17,7 +17,7 @@ Well-designed systems create structure. Poor decisions create friction.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ## Mini PDV • EDA + DDD + Blazor
 - https://pdv-event-driven-training.onrender.com/
