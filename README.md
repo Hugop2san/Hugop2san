@@ -1,8 +1,9 @@
 # Hugo Pereira dos Santos
 
 **Backend Software Developer | C# / .NET | Architecture & Domain Modeling**  
-🎓 Information Systems – PUC Minas  
-🇵🇹 Portuguese Citizenship  
+🎓 Information Systems – PUC Minas    
+🇵🇹 EU Citizen  
+🇧🇷 Brazilian
 
 ---
 
