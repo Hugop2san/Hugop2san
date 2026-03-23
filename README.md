@@ -27,22 +27,6 @@ Well-designed systems create structure. Poor decisions create friction.
 
 ---
 
-##  Engineering Mindset
-
-I apply:
-
-- Domain-Driven Design (DDD)  
-- Clean Architecture (clear separation of concerns)  
-- Event-driven thinking (when it adds real value)  
-
-I focus on understanding:
-
-- When a message broker is necessary vs. unnecessary complexity  
-- When architectural decisions add value vs. introduce noise  
-- How to align domain, technology, and business context without overengineering  
-
----
-
 ##  What I Work With
 
 ### Backend & Architecture
