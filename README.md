@@ -1,7 +1,7 @@
 # Hugo Pereira dos Santos
 
 **Backend Software Developer | C# / .NET | PHP / Laravel | Node.js / TypeScript | Architecture & Domain Modeling**
-🎓 Information Systems – PUC Minas    
+### 🎓 Information Systems – PUC Minas    
 🇵🇹 EU Citizen  
 🇧🇷 Brazilian
 
