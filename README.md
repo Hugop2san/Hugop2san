@@ -20,7 +20,10 @@ Well-designed systems create structure. Poor decisions create friction.
 
 ## Featured Projects
 
-## Mini PDV • EDA + DDD + Blazor
+## Fast Scan and Agent Automation
+- https://github.com/Hugop2san/Fast_Scan
+
+## Mini-PDV with EDA Architecture + DDD + Blazor
 - https://pdv-event-driven-training.onrender.com/
 
 ## Emails classifier by Hugging Face Inference API
